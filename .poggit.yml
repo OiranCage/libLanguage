@@ -7,4 +7,5 @@ projects:
   libLanguage:
     type: library
     model: virion
+    path: libLanguage
 ...
