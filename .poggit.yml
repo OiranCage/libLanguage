@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/OiranCage/libLanguage
+build-by-default: true
+branches:
+- main
+- develop
+projects:
+  libLanguage:
+    type: library
+    model: virion
+...
